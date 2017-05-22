@@ -6,7 +6,6 @@ GitHub Repos
 | Script Name   | Description   |
 | ------------- | ------------- |
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
-| [DropboxSync][]      | Dropbox File Synchronization |
 | [Shellista][] | Another iOS Shell Written for Pythonista |
 | [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
 | [editmenu][] | Pythonista editor sidebar utilities |
@@ -42,7 +41,6 @@ GitHub Repos
 | [Password Generator] | A simple password generator that lets the user copy the generated password to the clipboard with a single tap |
 | [PythonistaHexEditor][] | A simple hex editor for Pythonista |
 | [CleverSFTPClient][] | Very practical Pythonista SFTPClient application |
-| [Dropbox File Picker][] | A script to enable Pythonista to download files from Dropbox |
 | [Game Engine][] | A Game Engine WIP |
 
 
@@ -51,7 +49,6 @@ GitHub Gists
 
 | Script Name        | Description   |
 | -------------      | ------------- |
-| [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista |
 | [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
 | [filedownloader][] | Uses the requests module to download files and the ui module to show a progress bar |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
@@ -66,8 +63,6 @@ GitHub Gists
 | [Module grabber][] | Get the sourcecode of a non-builtin module |
 
 [blok]: https://github.com/solarfl4re/blok
-[Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
-[DropboxSync]: https://github.com/dhutchison/PythonistaScripts
 [ed]: https://github.com/jsbain/ed
 [editmenu]: https://github.com/jsbain/editmenu
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
@@ -116,5 +111,4 @@ GitHub Gists
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
 [Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py
 [CleverSFTPClient]: https://github.com/nekotaroneko/CleverSFTPClient
-[Dropbox File Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
 [Game Engine]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/Games/Game%20Engine
