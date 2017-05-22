@@ -59,8 +59,6 @@ GitHub Gists
 | [ShortURL][]  |  URL shortener using is.gd      |
 | [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
 | [indentation][] | Add this to your action menu and quickly indent multiple lines of code|
-| [fmath][] | Advanced functional math module      |
-| [Module grabber][] | Get the sourcecode of a non-builtin module |
 
 [blok]: https://github.com/solarfl4re/blok
 [ed]: https://github.com/jsbain/ed
@@ -69,7 +67,6 @@ GitHub Gists
 [FontInstaller]: https://gist.github.com/omz/9901460
 [filedownloader]: https://gist.github.com/ejmsoftware/89edf288a15fde45682a
 [filenav]: https://github.com/dgelessus/filenav
-[fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [glassboard2json]: https://gist.github.com/omz/6674820
 [GoogleSearch]: https://gist.github.com/omz/3908817
 [hexviewer]: https://github.com/humberry/hexviewer
@@ -80,7 +77,6 @@ GitHub Gists
 [mail-me-mah-code]: https://www.github.com/MCS-Kaijin/mail-me-mah-code
 [MarkdownPDF]: https://gist.github.com/SpotlightKid/0efb4d07f28af1c8fc1b
 [maze-cv]: https://github.com/The-Penultimate-Defenestrator/maze-cv
-[Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
 [PhoneManager]: https://github.com/humberry/PhoneManager
 [PhoneSMB]: https://github.com/humberry/PhoneSMB
 [Post-to-Pythonista-Forum]: https://github.com/danrcook/Post-to-Pythonista-Forum
