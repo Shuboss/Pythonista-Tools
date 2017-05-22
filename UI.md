@@ -23,7 +23,6 @@ GitHub Gists
 | [zoomview][]     | Pinch zoomable window example  |
 | [tabbedview][]     | View with tabs that switch subview |
 | [touchdispatcher][]     | Intercept touch events before sending to subviews|
-| [Cover Flow view][]     | A custom UI emulates the cover flow view in Mac Finder |
 | [ProgressView][] | An implementation of the native UIProgressView class |
 
 Custom Modules
@@ -44,7 +43,6 @@ Custom Modules
 [touchdispatcher]: https://gist.github.com/jsbain/1cf350e92bb5f59706ca
 [tabbedview]: https://gist.github.com/jsbain/fcadaffff4be09c4ec78
 [proplistener]: https://gist.github.com/jsbain/87cf25db0d3f1b16c512
-[Cover Flow view]: https://gist.github.com/The-Penultimate-Defenestrator/1eb8702f85521004477b
 [MarkdownView]: https://github.com/mikaelho/pythonista-markdownview
 [ProgressView]: https://gist.github.com/blmacbeth/60bacd65c89e5290f452
 [Navigation View Tutorial]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Navigation%20View%20Tutorial
